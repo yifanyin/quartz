@@ -1,10 +1,11 @@
 ---
-title: "Sequences of Earthquakes and Aseismic Slip"
-date: "2022-04-24"
+title: Sequences of Earthquakes and Aseismic Slip
+date: 2022-04-24
 tags:
-- research
-- simulation
-- SCEC
+  - research
+  - simulation
+  - SCEC
+  - earthquake/cycles
 ---
 
 - The [[SCEC]] **S**equences of **E**arthquakes and **A**seismic **S**lip community benchmark

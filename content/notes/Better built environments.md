@@ -7,7 +7,6 @@ tags:
 - built-environment
 DocumentClass: website
 ---
-
 What are built environments from the [Wiki](https://en.wikipedia.org/wiki/Built_environment)
 
 # Build the built environment in a less intrusive way

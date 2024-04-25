@@ -25,16 +25,16 @@ tags:
 # Work Experience
 
 ## Postdoc fellow at MIT EAPS
-- May 2023 - present
+*May 2023 - present*
 
 ## Research assistant at Academia Sinica
-- *September 2010 - January 2016*
+*September 2010 - January 2016*
 - Research assistant with Dr. Frédéric Deschamps working on anisotropy tomography of the North Island, New Zealand and Eastern United States. Duties include dispersion curve fitting, inversion and manuscript writing.
 - Data analyst at Broadband Array in Taiwan for Seismology (BATS). Duties include routine centroid moment tensor inversion for local earthquakes, station quality control, and metadata maintainance for permanant and temporary arrays.
 - Supporting field experiments and institute outreach activities.
 
 ## Researcher at SinoTech Engineering Consultants Inc.
-- *August 2009 - August 2010*
+*August 2009 - August 2010*
 - Report on landslide potentials in Nantou County.
 - Report on Shihmen Reservoir health and impact of landslides within the catchment.
 - Supporting various projects after the Typhoon Morakot, including satellite image processing and production of evacuation maps.
@@ -49,17 +49,9 @@ Seismicity Rate Change as a Tool to Investigate Delayed and Remote Triggering of
 - [Bulletin of the Seismological Society of America](https://doi.org/10.1785/0120210006), 2021
 - **Yifan Yin**, Stefan Wiemer, Edi Kissling, Federica Lanza, Antonio P. Rinaldi, Matthew Gerstenberger, and Bill Fry
 
-# Skills
-
-**Programming**
-Python, FORTRAN, R
-
-**Packages**
-- Numpy, Scipy, ObsPy
-- Sismological and geophysical packages like SAC, GMT, etc.
-
-**Language**
-English (professional), Chinese (Native), German (basic) 
+# Outreach
+- [EGU Seismology blog post](https://blogs.egu.eu/divisions/sm/2023/01/30/earthquake-watch-sequence-in-taiwan-sept-2022/) about the [[2022 Chi-Shang earthquakes]]
+- Radio interview about the [[2024 Hualien earthquake]]
 
 # Extracurricular activities
 

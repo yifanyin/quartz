@@ -1,6 +1,7 @@
 ---
 title: Hello World!
 ---
+![[banner.jpg]]
 Welcome to Yifan's personal website that doubled as a digital ~~garden~~ rewilding yard.
 
 I am a seismologist and geophysicist. All around bad coder. Stubborn bike commuter. I like tinkering with stuff, whether it's a piece of code, a bike, or a sourdough recipe.
@@ -11,9 +12,8 @@ Full CV can be [[Curriculum Vitae|found here]] and as a [PDF file](https://yifan
 
 ---
 # What I am up to
-- Undertake my postdoc fellow project on [better earthquake cycle simulations](https://data.snf.ch/grants/grant/214179) with Prof. Camilla Cattania at MIT.
-- I gave an invited talk at AGU2023 about my PhD project.
-- Learn how to drive.
+- Gave a short interview about the [[2024 Hualien earthquake]] on [Money FM](https://omny.fm/shows/moneyfm-morning-show/breakfast-special-is-taiwans-earthquake-the-larges) , a Singapore radio station.
+- Undertake my postdoc fellow project on [better earthquake cycle simulations](https://data.snf.ch/grants/grant/214179) with Prof. Camilla Cattania at MIT. More details [[A general earthquake cycle simulator|here]].
 
 # Master and PhD Projects
 - [[Seismic Tomography]]

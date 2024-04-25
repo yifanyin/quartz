@@ -18,7 +18,7 @@ Our result shows that with fault interaction that naturally exists within the cr
 # Perspectives
 - #Question What does the distribution look like for seismicity generated on the same fault? Are they characteristic in sizes? Are they more or less repetitive in time?
     -  Yan Y. Kagan, David D. Jackson, Robert J. Geller; **Characteristic Earthquake Model, 1884–2011, R.I.P.**. *Seismological Research Letters* 2012; 83 (6): 951–953. doi: [10.1785/0220120107](https://doi.org/10.1785/0220120107](https://doi.org/10.1785/0220120107)
-    - [[magnitude-frequency distribution#The moment-frequency relations|The general MFDs]]
+    - [[Magnitude-frequency distribution#The moment-frequency relations|General MFDs]]
 
 # Publication
 - **Yin, Y.**, Galvez, P., Heimisson, E. R., & Wiemer, S. (2023). The role of three-dimensional fault interactions in creating complex seismic sequences. _Earth and Planetary Science Letters_, _606_(118056), 118056, doi: [10.1016/j.epsl.2023.118056](https://doi.org/10.1016/j.epsl.2023.118056)
