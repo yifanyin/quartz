@@ -5,7 +5,7 @@ tags:
 ---
 # Summary
 - Experienced seismologist in multiple fields, including waveform and data analysis, body- and surface-wave tomography, statistical seismology, and earthquake cycle modeling.
-- PhD thesis focus on [[Crustal strain and seismicity|connecting seismic sequences with physical observation]] and [[notes/prj-eqsim|numerical models of earthquake ruptures]].
+- PhD thesis focus on [[Crustal strain and seismicity|connecting seismic sequences with physical observation]] and [[A general earthquake cycle simulator|numerical models of earthquake ruptures]].
 - Demonstrated capabilities in collaborating and communicating with observational seismologist, simulation scientists and statisticians in and across institutes.
 
 # Education and career
@@ -26,7 +26,7 @@ tags:
 
 ## Postdoc fellow at MIT EAPS
 *May 2023 - present*
-
+- Swiss National Science Foundation Postdoc.mobility grant 
 ## Research assistant at Academia Sinica
 *September 2010 - January 2016*
 - Research assistant with Dr. Frédéric Deschamps working on anisotropy tomography of the North Island, New Zealand and Eastern United States. Duties include dispersion curve fitting, inversion and manuscript writing.
@@ -42,7 +42,7 @@ tags:
 # Publications
 
 The role of three-dimensional fault interactions in creating complex seismic sequences and power-law magnitude distributions
--  [Earth and Space Science Open Archive (Preprint)](https://www.essoar.org/doi/abs/10.1002/essoar.10510908.1), 2022
+-  [Earth and Planetary Science Letters](https://doi.org/10.1016/j.epsl.2023.118056)
 - **Yifan Yin**, Percy Galvez, Elías R. Heimisson, and Stefan Wiemer.
 
 Seismicity Rate Change as a Tool to Investigate Delayed and Remote Triggering of the 2010–2011 Canterbury Earthquake Sequence, New Zealand
